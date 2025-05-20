@@ -68,7 +68,7 @@ declare namespace Angelesz {
 
   interface HighlightCallback<T> { (match: string, index: number): T }
 
-  interface Fuzzysort {
+  interface Angelesz {
 
     single(search: string, target: string | Prepared): Result | null
 
