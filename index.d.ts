@@ -88,7 +88,7 @@ declare namespace Angelesz {
   }
 }
 
-declare module "fuzzysort" {
-  const fuzzysort:Fuzzysort.Fuzzysort
-  export = fuzzysort
+declare module "angelesz" {
+  const angelesz:Angelesz.Angelesz
+  export = angelesz
 }
