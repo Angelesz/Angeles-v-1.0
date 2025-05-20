@@ -4,7 +4,7 @@
 ;((root, UMD) => {
   if(typeof define === 'function' && define.amd) define([], UMD)
   else if(typeof module === 'object' && module.exports) module.exports = UMD()
-  else root['fuzzysort'] = UMD()
+  else root['angelesz'] = UMD()
 })(this, _ => {
   'use strict'
 
