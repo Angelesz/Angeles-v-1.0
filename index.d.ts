@@ -1,4 +1,4 @@
-declare namespace Fuzzysort {
+declare namespace Angelesz {
 
   interface Result {
     /**
